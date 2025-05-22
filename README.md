@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello! I'm Batsirai Mandikutse
 
-<!--
-**BatsiMandi/batsimandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated student exploring the foundations of software development. I'm currently focused on strengthening my skills in:
 
-Here are some ideas to get you started:
+* **Languages:** Python, Java, HTML, CSS, JavaScript
+* **Concepts:** Object-Oriented Programming, Web Development Fundamentals, Software Engineering Principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to transition my theoretical knowledge into practical applications, and I'm actively looking for opportunities to learn and grow within a professional environment.
+
+---
+
+**🚀 What I'm working on:** Personal projects to solidify my understanding of full-stack web development and core Java concepts.
+**💡 Always learning:** Eager to tackle new challenges and expand my tech stack.
+
+---
+**Let's connect:**
+[www.linkedin.com/in/batsirai-mandikutse-825049212]
