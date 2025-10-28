@@ -9,7 +9,7 @@ My goal is to transition my theoretical knowledge into practical applications, a
 
 ---
 
-**🚀 What I'm working on:** Personal projects to solidify my understanding of mobile application development and core Java concepts.
+**🚀 What I'm working on:** Personal projects to solidify my understanding of web development, front-end and back-end concepts.
 **💡 Always learning:** Eager to tackle new challenges and expand my tech stack.
 
 ---
